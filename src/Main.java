@@ -1,5 +1,5 @@
 public class Main {
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
 
         int mainBalance = 100;
         int summaPopolneniy = 1200;
